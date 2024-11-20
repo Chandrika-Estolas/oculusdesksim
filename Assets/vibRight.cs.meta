@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9fea4aab7168d814f9859f43e8cd4e50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ObjectCollideRightPinky: {fileID: 7940499096677766210, guid: 159a5ccaba700cb4a819dc99cc475ac9,
+      type: 3}
+  - ObjectCollideRightRing: {fileID: 6193883292198017087, guid: 55c3d48d06c50d84a8f9f2107a2d5ff8,
+      type: 3}
+  - ObjectCollideRightMiddle: {fileID: 8727657578749782746, guid: 55bb80172bdc69d4e8dd2af20951bead,
+      type: 3}
+  - ObjectCollideRightIndex: {fileID: 2628792659704988757, guid: 78a3b036ef458f649b48bc7fdb681177,
+      type: 3}
+  - ObjectCollideRightThumb: {fileID: 1203570841973139888, guid: 7dc29b438044ecc41808bdb98607d055,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

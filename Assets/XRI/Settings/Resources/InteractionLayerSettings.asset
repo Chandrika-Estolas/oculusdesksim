@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 191492db6e452eb468b95433ec162164, type: 3}
+  m_Name: InteractionLayerSettings
+  m_EditorClassIdentifier: 
+  m_LayerNames:
+  - Default
+  - 
+  - CPU
+  - SSD
+  - FAN
+  - GPU
+  - MOBO
+  - PSU
+  - COOLER
+  - RAD
+  - FAN2
+  - FAN3
+  - SSD2
+  - RAM2REPLACE
+  - ScrewDriver
+  - ThermalPaste
+  - GPU2REPLACE
+  - PSU2REPLACE
+  - cooler bracket
+  - fan140(1)
+  - fan140(2)
+  - fan120-1
+  - fan120-2
+  - fan120-3
+  - fan120-4
+  - ram1
+  - ram2
+  - ram3
+  - ram4
+  - 
+  - 
+  - Teleport
